@@ -1,5 +1,5 @@
-# ÌìÌìÒôÀÖ
-React+JPlayer+BootStrap4.0¿ª·¢,ËùÓÐÊý¾ÝÀ´×ÔËùÓÐÊý¾ÝÀ´×ÔPythonÅÀ³æ»ñÈ¡µÄ¿á¹·ÒôÀÖÅÅÐÐ°ñ¸èÇú<br>
-ÔÚÏß·ÃÎÊ:https://tiantian2000.github.io/react-music-player/<br>
-µçÄÔÖÐµÄä¯ÀÀÆ÷Ê¹ÓÃÄ£ÄâÊÖ»ú½çÃæ·ÃÎÊ»òÓÃÊÖ»úÖ±½Ó·ÃÎÊ<br><br>
-<img src="https://github.com/tiantian2000/react-music-player/blob/gh-pages/Ê¾Àý.png"/>
+# å¤©å¤©éŸ³ä¹
+React+JPlayer+BootStrap4.0å¼€å‘,æ‰€æœ‰æ•°æ®æ¥è‡ªæ‰€æœ‰æ•°æ®æ¥è‡ªPythonçˆ¬è™«èŽ·å–çš„é…·ç‹—éŸ³ä¹æŽ’è¡Œæ¦œæ­Œæ›²<br>
+åœ¨çº¿è®¿é—®:https://tiantian2000.github.io/react-music-player/<br>
+ç”µè„‘ä¸­çš„æµè§ˆå™¨ä½¿ç”¨æ¨¡æ‹Ÿæ‰‹æœºç•Œé¢è®¿é—®æˆ–ç”¨æ‰‹æœºç›´æŽ¥è®¿é—®<br><br>
+<img src="https://github.com/tiantian2000/react-music-player/blob/gh-pages/%E7%A4%BA%E4%BE%8B.PNG"/>
