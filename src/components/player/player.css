@@ -69,6 +69,11 @@
     text-align:center;
 }
 
+.player-page .clric .list-group-item {
+    border-radius: 10px;
+    border: none;
+}
+
 /*图标*/
 .icon {
     display: inline-block;

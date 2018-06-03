@@ -241,7 +241,7 @@ class Player extends Component {
                 lyricElS = lyricElS.getElementsByTagName('li');
                 let lyricEl = lyricElS[this.state.lineNo]
                 let scrollObj = this.refs.scroll.getScrollObj()
-                scrollObj.scrollToElement(lyricEl,3000)
+                scrollObj.scrollToElement(lyricEl,4000)
                 this.setState({
                     lineNum: 0
                 })
