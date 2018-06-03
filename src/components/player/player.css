@@ -1,5 +1,5 @@
 .player-page {
-    width: 700px;
+    width: 90%;
     margin: 0 auto;
     margin-top: 20px;
 }
@@ -24,13 +24,13 @@
 }
 
 .player-page .cover {
-    width: 180px;
-    height: 180px;
+    width: 160px;
+    height: 160px;
 }
 
 .player-page .cover img {
-    width: 180px;
-    height: 180px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
 }
 
@@ -60,6 +60,13 @@
     to {
         transform: rotate(360deg);
     }
+}
+
+.player-page .clric {
+    height: 300px;
+    right:0;
+    overflow:hidden;
+    text-align:center;
 }
 
 /*图标*/

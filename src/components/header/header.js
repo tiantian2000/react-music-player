@@ -12,7 +12,7 @@ class Header extends Component {
                 <div className="media">
                     <div className="logo mr-3"/>
                         <div className="media-body">
-                            <h5 className="mt-3">React 音乐播放器</h5>
+                            <h5 className="mt-3">天天音乐播放器</h5>
                         </div>
                 </div>
             </div>
