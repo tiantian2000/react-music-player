@@ -12,7 +12,6 @@ https://tiantian2000.github.io/react-music-player/
 
 <h2>项目截图</h2>
 <img src="https://github.com/tiantian2000/react-music-player/blob/gh-pages/%E7%A4%BA%E4%BE%8B.PNG"/>
-<br><br><br>
 <img src="https://github.com/tiantian2000/react-music-player/blob/gh-pages/%E7%A4%BA%E4%BE%8B1.PNG"/>
 
 #克隆整个项目到本地<br>
